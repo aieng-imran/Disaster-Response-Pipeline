@@ -1,6 +1,7 @@
 # Disaster Response Pipeline Project
 # by Imran Yasin
 
+## Introduction
 Project Overview In this course, you've learned and built on your data engineering skills to expand your opportunities and potential as a data scientist. In this project, you'll apply these skills to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
 
 In the Project Workspace, you'll find a data set containing real messages that were sent during disaster events. You will be creating a machine learning pipeline to categorize these events so that you can send the messages to an appropriate disaster relief agency.
@@ -15,9 +16,10 @@ ML Pipeline In a Python script, train_classifier.py, write a machine learning pi
 
 Flask Web App We will be taking the user message and classify them into 36 categories. There are some beautiful visualization of the data as well
 
+## Rubrics
 All of the necessary criteria for developing the pipeline and web app is given in the rubric below https://review.udacity.com/#!/rubrics/1565/view
 
-### Instructions:
+## GuideLine:
 Run the following commands in the project's root directory to set up your database and model.
 
 To run ETL pipeline that cleans data and stores in database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
@@ -26,7 +28,7 @@ Run the following command in the app's directory to run your web app. python run
 
 Go to http://0.0.0.0:3001/
 
-### Instructions:
+## Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
@@ -38,3 +40,6 @@ Go to http://0.0.0.0:3001/
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+## Contribution & Aknowledgement
+This project is open to all of you If any One like Give it a STAR as a sign of your love, if you want to contribute don't be hesitate just <a href = "https://www.linkedin.com/in/imran-yasin-76106b60/">Click Here</a>
