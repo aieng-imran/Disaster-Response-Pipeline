@@ -42,4 +42,4 @@ Go to http://0.0.0.0:3001/
 3. Go to http://0.0.0.0:3001/
 
 ## Contribution & Aknowledgement
-This project is open to all of you If any One like Give it a STAR as a sign of your love, if you want to contribute don't be hesitate just <a href = "https://www.linkedin.com/in/imran-yasin-76106b60/">Click Here</a> and https://github.com/iyasin-ceng/Disaster-Response-Pipeline
+This project is open to all of you If any One like Give it a STAR as a sign of your love, if you want to contribute don't be hesitate just <a href = "https://www.linkedin.com/in/imran-yasin-76106b60/">Click Here</a> and <a href = "https://github.com/iyasin-ceng/Disaster-Response-Pipeline">GitHhub</a>
